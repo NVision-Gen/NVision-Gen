@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NVision-Gen
+- 👋 Hi, I’m Naveen @NVision-Gen
 - 👀 I’m interested in New Technologies
 - 🌱 I’m currently learning AI Python Django
 - 💞️ I’m looking to collaborate on official account
